@@ -1,11 +1,7 @@
-##这个是我用来爬取豆瓣top250电影的爬虫
+##豆瓣小组宁波套路的多页面爬虫 cos
 
 基于scrapy，多网页抓取
 
-仍有一些问题：
 
-###使用：
-
-******
 
 >scrapy crawl douban_movie_spider
